@@ -1,0 +1,20 @@
+{
+  "name": "dir-scanner",
+  "version": "0.0.1",
+  "description": "scan a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test _mocha --report html -- test/*.js --reporter spec"
+  },
+  "keywords": [
+    "scan",
+    "directory"
+  ],
+  "author": "zechengdai",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  }
+}

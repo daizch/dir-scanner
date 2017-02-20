@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode
+
+*.log
+*.gz
+logs
+npm-debug.log.*
+.DS_Store
+*.swp
+.vscode
